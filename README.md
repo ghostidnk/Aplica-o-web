@@ -1,5 +1,8 @@
 # web_aplication
 
+Rafael Gomes da Costa - 03351168
+Sabrina da Silva Freitas - 03345543
+
 Backend:
 precisa criar o venv e puxar todos as bibliotecas com os seguintes comandos:
 
